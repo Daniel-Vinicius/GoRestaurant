@@ -9,7 +9,7 @@ controlarem quais refeições estão disponíveis e quais estão indisponíveis.
 
 ## Preview
 
-<img src=".github/gorestaurant.png">
+<img src="https://github.com/nathaliacristina20/gorestaurant/blob/master/.github/gorestaurant.png">
 
 ## :books: Guia de instalação e execução
 
